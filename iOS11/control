@@ -1,0 +1,10 @@
+Package: com.nichojoshua.begonecia13
+Name: BegoneCIA13
+Version: 13
+Architecture: iphoneos-arm
+Description: CC toggle to disable microphone, camera and GPS. Now Support iOS 13
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 13.3), applist
+Conflicts: me.nepeta.begonecia-10
+Maintainer: NichoJoshua <NichoJoshua26@gmail.com>
+Author: NichoJoshua <NichoJoshua26@gmail.com>
+Section: Tweaks
